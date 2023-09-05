@@ -2,10 +2,13 @@
 
 ## Introduction to Bio-image Analysis
 
+In the first session we will go through the basics of bio-image analysis. We will learn why image analysis workflows should be quantitative, objective, reproducible, repeatable, replicable and reliable.
+
+[Download slides](https://github.com/BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2023/blob/main/slides/Introduction_QBIA_DD.pptx)
 
 ## Google Colab
 
-In this course we will execute image analysis workflows on [Google Colab]https://colab.research.google.com/(). Make sure you have a Google account before clicking on one of the following links.
+In this course we will execute image analysis workflows on [Google Colab](https://colab.research.google.com/). Make sure you have a Google account before clicking on one of the following links.
 
 * <a href="https://colab.research.google.com/github/BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2023/blob/main/notebooks/10_our_first_notebook.ipynb" target="_blank">our first notebook</a>
 
