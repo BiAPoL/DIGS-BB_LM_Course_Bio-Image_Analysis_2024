@@ -1,33 +1,14 @@
-# DIGS-BB Light Microscopy Course: Bio-image Analysis
+# DIGS-BB - Light Microscopy Course - Bio-Image Analysis 2024
 
-## Introduction to Bio-image Analysis
 
-In the first session we will go through the basics of bio-image analysis. We will learn why image analysis workflows should be quantitative, objective, reproducible, repeatable, replicable and reliable.
+This repository contains a collection of Python Jupyter notebooks and markdown files for a one afternoon course in Image Analysis with napari and napari plugins.
 
-[Download introduction slides](https://github.com/BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2023/blob/main/slides/Introduction_QBIA_DD.pdf)
+The Jupyter book of the course can be viewed under this URL: **add book url**
 
-[Download filtering and segmentation slides](https://github.com/BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2023/blob/main/slides/30_Filtering_Segmentation.pdf)
+This work is licensed by the Bio-Image Analysis Technology Development group (BiAPoL), Cluster of Excellence Physics of Life (PoL), Dresden, under a Creative Commons Attribution 4.0 International License.
 
-[Download feature extraction slides](https://github.com/BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2023/blob/main/slides/40_Feature_extraction.pdf)
+It is maintained using [Jupyter lab](https://jupyter.org/) and build using [Jupyter book](https://jupyterbook.org/en/stable/intro.html).
 
-## Google Colab
+# Acknowledgements
 
-In this course we will execute image analysis workflows on [Google Colab](https://colab.research.google.com/). Make sure you have a Google account before clicking on one of the following links.
-
-* <a href="https://colab.research.google.com/github/BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2023/blob/main/notebooks/10_our_first_notebook.ipynb" target="_blank">our first notebook</a>
-
-* <a href="https://colab.research.google.com/github/BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2023/blob/main/notebooks/20_Dont_try_this_at_home.ipynb" target="_blank">Pitfalls when using notebooks</a>
-
-* <a href="https://colab.research.google.com/github/BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2023/blob/main/notebooks/30_trailer.ipynb" target="_blank">Trailer: a complete bio-image analysis workflow</a>
-
-* <a href="https://colab.research.google.com/github/BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2023/blob/main/notebooks/40_working_with_data_on_google_colab.ipynb" target="_blank">Optional: Working with data on Google Drive</a>
-
-* <a href="https://colab.research.google.com/github/BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2023/blob/main/notebooks/50_working_with_data_on_owncloud.ipynb" target="_blank">Optional: Working with data on Owncloud</a>
-
-* <a href="https://colab.research.google.com/github/BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2023/blob/main/notebooks/60_denoising_background_removal.ipynb" target="_blank">Using image filters to remove noise and background</a>
-
-* <a href="https://colab.research.google.com/github/BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2023/blob/main/notebooks/70_stackview_segmentation_exercise.ipynb" target="_blank">Instance segmentation</a>
-
-* <a href="https://colab.research.google.com/github/BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2023/blob/main/notebooks/80_feature_extraction.ipynb" target="_blank">Feature extraction</a>
-
-**Note:** While using Google colab is covenient for teaching, it is not recommended to use it in daily research practice. The reason is that we must upload our research data to the internat in order to use Google colab. To avoid this, install [mambaforge](https://github.com/conda-forge/miniforge#mambaforge) and [Jupyter lab](https://jupyter.org/) on your local computer or workstation as explained in [this blog post](https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html) and run notebooks for your science there.
+We would like to acknowledge all contributors who spend time in the past years to make slides and notebooks we are reusing there, in particular Robert Haase (Scads.AI Leipzig). This project was supported by the Deutsche Forschungsgemeinschaft under Germany’s Excellence Strategy – EXC2068 - Cluster of Excellence “Physics of Life” of TU Dresden. We also acknowledge Biopolis Dresden Imaging Platform - BioDIP for organizing this course.
