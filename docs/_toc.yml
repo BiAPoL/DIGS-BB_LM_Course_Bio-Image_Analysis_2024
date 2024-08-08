@@ -1,0 +1,18 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+
+options: # The options key will be applied to all chapters, but not sub-sections
+  numbered: False
+
+chapters:
+- file: napari_workshop/01_images_are_numpy_arrays
+- file: napari_workshop/08_napari-assistant
+- file: napari_workshop/09_notebook_export
+- file: napari_workshop/multichannel_analysis/readme
+- file: napari_workshop/interactive_pixel_classification/readme
+- file: napari_workshop/interactive_object_classification/readme
+- file: napari_workshop/interactive_unsupervised_object_classification/readme
+- file: napari_workshop/FLIM/readme
