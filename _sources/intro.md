@@ -18,4 +18,4 @@ Please follow the instructions from [this blog post](https://biapol.github.io/bl
 
 ## Cloning the repository
 
-Clone this repository to your computer (go to the repository page on GitHub [here](https://github.com/BiAPoL/BioImage-Analysis-and-Data-Processing-Workshop-2024), click the green button <span style="color:green">**Code**</span> and choose one option to clone it. The most straight-forward way is to download it as a `.zip` file). If you do that, unzip the repository in a folder of your choice and remember where you placed it.
+Clone this repository to your computer (go to the repository page on GitHub [here](https://github.com/BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2024), click the green button <span style="color:green">**Code**</span> and choose one option to clone it). The most straight-forward way is to download it as a `.zip` file. If you do that, unzip the repository in a folder of your choice and remember where you placed it.
