@@ -3,7 +3,7 @@
 
 This repository contains a collection of Python Jupyter notebooks and markdown files for a one afternoon course in Image Analysis with napari and napari plugins.
 
-The Jupyter book of the course can be viewed under this URL: **add book url**
+The Jupyter book of the course can be viewed under this URL: https://biapol.github.io/DIGS-BB_LM_Course_Bio-Image_Analysis_2024/
 
 This work is licensed by the Bio-Image Analysis Technology Development group (BiAPoL), Cluster of Excellence Physics of Life (PoL), Dresden, under a Creative Commons Attribution 4.0 International License.
 
